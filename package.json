@@ -1,0 +1,42 @@
+{
+    "name": "turbo-bot-v12",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Youssef Mohamed",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "canvas": "^2.9.0",
+        "cheerio": "^1.0.0-rc.10",
+        "dateformat": "^5.0.3",
+        "discord-banner": "^1.6.7",
+        "discord-reply": "^0.1.2",
+        "discord.js": "^12.5.3",
+        "express": "^4.17.3",
+        "fs": "^0.0.1-security",
+        "gif-search": "^2.1.0",
+        "guild": "^1.2.3",
+        "hastebin-gen": "^2.0.5",
+        "hh-mm-ss": "^1.2.0",
+        "isgd": "^1.1.3",
+        "jimp": "^0.16.1",
+        "moment": "^2.29.1",
+        "ms": "^2.1.3",
+        "path": "^0.12.7",
+        "pretty-ms": "^7.0.1",
+        "probot-tax": "^1.0.3",
+        "remove.bg": "^1.3.0",
+        "simple-youtube-api": "^5.2.1",
+        "snekfetch": "^4.0.4",
+        "sqlite": "^4.0.23",
+        "table": "^6.8.0",
+        "util": "^0.12.4",
+        "youtube-info": "^1.3.2",
+        "ytdl-core": "^4.10.1"
+    }
+}
